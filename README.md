@@ -6,7 +6,8 @@
 
 ## :mortar_board: Мои личные проекты
 
-1.  [Device shop](https://github.com/General4056/deviceShop)
+1.  [Hacker News](https://github.com/General4056/Hacker-News)
+2.  [Typescript device shop](https://github.com/General4056/typescript-shop)
 
 ## :mortar_board: Мои проекты в яндекс практикуме
 
